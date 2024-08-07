@@ -1,5 +1,5 @@
 # MMHD
-High resolution textures for MM to be used with either the Recompiled port (recommended), 2ship port, or GlideN64 plugin. Please make sure to use 7-zip to extract the archives. 
+High resolution textures to be used with either the Zelda64Recompiled port (recommended), 2ship port, or GlideN64 plugin. Please make sure to use 7-zip to extract the archives. 
 
 Project64 is no longer support due to severe technical issues with the emulator, please use RMG instead: https://github.com/Rosalie241/RMG/releases/latest
 
