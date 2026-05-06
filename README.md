@@ -5,7 +5,9 @@ The 2ship port still has issues with custom texture support that prevent it from
 
 If you still want to use emulation, Project64 is no longer recommended due to rampant technical issues with the emulator- please use RMG instead: https://github.com/Rosalie241/RMG/releases/latest
 
+
 Thanks to these contributors:
+
 GhostlyDark for fixes and regional variations
 
 Skilar for 3D model references
