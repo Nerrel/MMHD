@@ -7,7 +7,9 @@ If you still want to use emulation, Project64 is no longer recommended due to ra
 
 Thanks to these contributors:
 GhostlyDark for fixes and regional variations
+
 Skilar for 3D model references
+
 Tom Garden for the Gerudo pirate poster
 
 
